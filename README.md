@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **There is BIG money in Coding**
 
-- 👨‍💻 Portfolio: [https://coding-phase.github.io/vishalportfolio.github.io/](https://coding-phase.github.io/vishalportfolio.github.io/)
+- 👨‍💻 Portfolio: [https://coding-phase.github.io/vishal.github.io/](https://coding-phase.github.io/vishal.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
